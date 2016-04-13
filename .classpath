@@ -7,5 +7,8 @@
 	<classpathentry kind="lib" path="/Users/mick/Downloads/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar"/>
 	<classpathentry kind="lib" path="/Users/mick/Downloads/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="/Users/mick/Development/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Downloads/commons-daemon-1.0.15/commons-daemon-1.0.15-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Downloads/commons-daemon-1.0.15/commons-daemon-1.0.15-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Downloads/commons-daemon-1.0.15/commons-daemon-1.0.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -25,6 +25,14 @@ public class Constants {
 	public static final String MSG_NO_IP = "Unable to get IP, will try again in " + Main.prefs.getTimeout() + "m";
 	public static final String MSG_SAME_IP = "IP has not changed";
 	public static final String MSG_IP_CHANGE = "IP is now set to ";
+	public static final String MSG_INIT = "Dreamhost DynDNS Init";
+	public static final String MSG_START = "Dreamhost DynDNS Started";
+	public static final String MSG_STOP = "Dreamhost DynDNS Stopping";
+	public static final String MSG_DONE = "Dreamhost DynDNS Stopped";
+
+
+
+
 	
 	
 }
